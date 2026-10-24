@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Midhun Madhu 👋
 
-<!--
-**Midhun123-git/Midhun123-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer | MERN Stack
 
-Here are some ideas to get you started:
+I build responsive web applications and REST APIs. I'm passionate about learning new technologies and creating real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- JavaScript, React.js
+- Node.js, Express.js
+- MongoDB, MySQL
+- HTML, CSS, Tailwind CSS
+- Git & GitHub
+
+### Projects
+- 🐠 Aqua Cart — Ornamental Fish E-Commerce
+- 📝 Listify — CRUD Web Application
+- 🎬 Midhun Frames — Photography Portfolio
+
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/midhunmadhuuu/)
+- [GitHub](https://github.com/Midhun123-git)
+- [Portfolio](https://midhun-frames.vercel.app)
+
+⭐ Thanks for visiting my profile!
